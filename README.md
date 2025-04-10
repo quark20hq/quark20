@@ -1,5 +1,5 @@
 # quark20
-We are building a digital world of freedom based on onchain assets and metaverse experiences. We will publish our works here as we make progress. Stay tuned at https://quark20.com and join our [Discord](https://discord.gg/Y7AwD7tpS9)
+We are building a digital world of freedom based on onchain assets and metaverse experiences with qAI. We will publish our works here as we make progress. Stay tuned at https://quark20.com and join our [Discord](https://discord.gg/Y7AwD7tpS9)
 
 ## Onchain metaverse assets (w. ARC builder save/load access):
 - Nakamoto Matrix parcel collection (built on Bitmap, center Matrix City in Blocks Of Bitcoin): https://magiceden.us/ordinals/marketplace/nakamotomatrix
