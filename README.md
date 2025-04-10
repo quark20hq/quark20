@@ -35,7 +35,7 @@ livestream for Nakamoto Matrix (in development): https://www.twitch.tv/nakamotom
 - Solving Discrete Logarithm Problems in ECDH Using Qiskit (sample code for running on quantum cloud services): https://github.com/runeape-sats/shor-ecdh
 
 ## qAI
-metaverse AI agent (SOL): [ERKbvKU1Md4AXNyzWQbagRJWpGE7rwUxGep9ESaxpump](https://dexscreener.com/solana/9nhezuhqvat7vhktdwteguh9xryndeqhmvyvjfr7kpsz)
+metaverse AI agent (SOL): [ERKbvKU1Md4AXNyzWQbagRJWpGE7rwUxGep9ESaxpump](https://dexscreener.com/solana/9nhezuhqvat7vhktdwteguh9xryndeqhmvyvjfr7kpsz) (verified via [Coingecko](https://www.coingecko.com/en/coins/qai))
 
 ## Team:
 - runeape.sats https://github.com/runeape-sats
