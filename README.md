@@ -16,16 +16,15 @@ We are building a digital world of freedom based on onchain assets and metaverse
 - Next Level on Nakamoto Matrix (Unreal Engine, preview only): https://x.com/runeape_sats/status/1881592734873759837
 
 ## Metaverse builder tool:
-We are compatible with [MML](https://mml.io/), a XML-like 3D format for describing 3D assets. You can reuse MML in other MML projects (e.g., Yuga Labs' OtherSide). Build once, use it on web and Unreal Engine https://x.com/runeape_sats/status/1892582805072232707
+We are compatible with [MML](https://mml.io/), a XML-like 3D format for describing 3D assets. You can reuse MML in other MML projects (e.g., Yuga Labs' OtherSide). [Build once, use it on web and Unreal Engine](https://x.com/runeape_sats/status/1892582805072232707).
 - ARC builder https://arc.blocksofbitcoin.xyz/
 - ARC store builder to turn your plot into a pre-sale ready website (in alpha testing)
 - Discord qAI text-to-3D tools (see Discord channels)
 - Twitter qAI text-to-??? (coming soon in mid April)
 
 ## Metaverse tools (open-source, MIT license):
-- bitcoin-mcp extends AI utilities with accurate Bitcoin blockchain data based on MCP: https://github.com/runeape-sats/bitcoin-mcp
-- unreal-mcp enables Claude Desktop to build and modify 3D scenes in Unreal Engine through natural language, representing an early step toward text-to-game-generation technology: https://github.com/runeape-sats/unreal-mcp
-- mix & match MCP tools, you can build BTC 3D blocks in Unreal Engine: https://x.com/runeape_sats/status/1906928039092736032
+- **[bitcoin-mcp](https://github.com/runeape-sats/bitcoin-mcp)** extends AI utilities with accurate Bitcoin blockchain data based on MCP
+- **[unreal-mcp](https://github.com/runeape-sats/unreal-mcp)** enables Claude Desktop to build and modify 3D scenes in Unreal Engine through natural language, representing an early step toward text-to-game-generation technology. You can mix-and-match MCP tools to [generate BTC 3D blocks in Unreal Engine](https://x.com/runeape_sats/status/1906928039092736032).
 
 ## Twitch 
 livestream for Nakamoto Matrix (in development): https://www.twitch.tv/nakamotomatrix
